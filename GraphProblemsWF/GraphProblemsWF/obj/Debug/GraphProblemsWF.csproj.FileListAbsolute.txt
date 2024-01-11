@@ -1,0 +1,32 @@
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe.config
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.pdb
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.AssemblyReference.cache
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Properties.Resources.resources
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.GenerateResource.cache
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.CoreCompileInputs.cache
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.exe
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.pdb
+C:\Users\Schutzsaffel\Desktop\Laslo\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Vertex.resources
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe.config
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.pdb
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.AssemblyReference.cache
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.SuggestedBindingRedirects.cache
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Form1.resources
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Properties.Resources.resources
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.GenerateResource.cache
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.CoreCompileInputs.cache
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.exe
+P:\Facultate an 2\Algoritmi\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.pdb
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe.config
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.exe
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\bin\Debug\GraphProblemsWF.pdb
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Form1.resources
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.Properties.Resources.resources
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.exe
+C:\Users\andre\OneDrive\Documents\MAP\GraphProblemsWF\GraphProblemsWF\obj\Debug\GraphProblemsWF.pdb
